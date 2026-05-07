@@ -1,12 +1,22 @@
 # Comparative Analysis of Machine Learning Classifiers on the Iris Dataset
 
+> ```
+> Debargha Mitra Roy
+> Department of Computer Science and Engineering
+> National Institute of Technology, Durgapur
+> Durgapur, Pachim Bardhaman, West Bengal 713363
+> debarghamitraroy@gmail.com
+> ```
+
+[![Publication](https://img.shields.io/badge/Publication-Comparative%20Analysis%20of%20Machine%20Learning%20Classifiers%20on%20the%20Iris%20Dataset-red?style=flat&logo=googledocs&logoColor=red)](./Comparative%20Analysis%20of%20Machine%20Learning%20Classifiers%20on%20the%20Iris%20Dataset.pdf)
+
 ## 📌 Project Overview
 
 This project presents a comparative performance analysis of multiple supervised machine learning classifiers on the famous Iris Dataset using **K-Fold Cross Validation**.
 
-The objective is to evaluate and compare the classification performance, stability, and learning behavior of different machine learning models using multiple evaluation metrics.
+The objective is to evaluate and compare the classification performance, stability, and learning behaviour of different machine learning models using multiple evaluation metrics.
 
-The following classifiers were implemented and analyzed:
+The following classifiers were implemented and analysed:
 
 - Support Vector Machine (SVM)
 - Random Forest Classifier
